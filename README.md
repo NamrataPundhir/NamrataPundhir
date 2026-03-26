@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Namrata Pundhir</h1>
+<h3 align="center">Full Stack Developer | Java | Spring Boot | DSA</h3>
 
-<!--
-**NamrataPundhir/NamrataPundhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```java
+public class NamrataPundhir {
+
+    String name = "Namrata Pundhir";
+    String location = "Ghaziabad, India";
+    String college = "B.Tech IT Student";
+    
+    String[] roles = {
+        "Full Stack Developer",
+        "Backend Developer",
+        "DSA Enthusiast"
+    };
+
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "MongoDB",
+        "React",
+        "Python",
+        "MySQL"
+    };
+
+    String currentlyLearning = "System Design";
+
+    String lifePhilosophy() {
+        return "Code. Learn. Build. Repeat. 🚀";
+    }
+}
