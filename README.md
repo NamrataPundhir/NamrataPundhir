@@ -37,24 +37,8 @@ public class NamrataPundhir {
     }
 }
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NamrataPundhir&show_icons=true&theme=tokyonight"/>
-</p>
-
-## 🛠 Tech Stack
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
+  <img src="https://github.com/NamrataPundhir/NamrataPundhir/blob/output/github-contribution-grid-snake-dark.svg"/>
 </p>
