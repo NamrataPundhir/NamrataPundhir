@@ -1,13 +1,3 @@
-<h1 align="center">Hi 👋, I'm Namrata Pundhir</h1>
-
-<h3 align="center">
-Full Stack Developer | Java | Spring Boot | DSA Enthusiast
-</h3>
-
----
-
-# 👩‍💻 About Me
-
 ```java
 public class NamrataPundhir {
 
@@ -36,9 +26,5 @@ public class NamrataPundhir {
         return "Code. Learn. Build. Repeat. 🚀";
     }
 }
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/NamrataPundhir/NamrataPundhir/blob/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/NamrataPundhir/NamrataPundhir/output/github-contribution-grid-snake-dark.svg"/> </p> ```
