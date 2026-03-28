@@ -38,3 +38,9 @@ public class NamrataPundhir {
 }
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NamrataPundhir&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamrataPundhir&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamrataPundhir&layout=compact&theme=tokyonight"/> </p>
+## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
