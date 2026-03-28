@@ -1,25 +1,27 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm Namrata Pundhir
+**A passionate Software Engineer || Web Devloper || Full Stack (Learning)
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **nampundhir029@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🌱 **I’m currently learning:** Full Stack,Cloud
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 📫 **How to reach me:** nampundhir029@gmail.com
+- 😄 **Pronouns:** Namm
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## 🔗 I am a Content Creator. 😊😊
 
-Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
+## 🌐 Connect With Me  
 
-[![Techno Snag YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/technosnag) [![Techno Snag Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/technosnag) [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/technosnag) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag)
+Stay connected and check out my profiles:
 
-[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
+[![LinkedIn Namrata](https://img.shields.io/badge/LinkedIn-Namrata%20Pundhir-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namrata-pundhir-it/)  
 
+[![LeetCode Namrata](https://img.shields.io/badge/LeetCode-Namrata%20Pundhir-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Namrata_Pundhir/)  
+
+[![Instagram Namrata](https://img.shields.io/badge/Instagram-Namrata%20Pundhir-pink?logo=instagram&logoColor=white)](https://www.instagram.com/kshx_namratapundxr?igsh=MTlzaXVwYTZiZW1ieg==)
+
+[![](https://visitcount.itsvg.in/api?id=NamrataPundhir&icon=1&color=4)](https://visitcount.itsvg.in)
 <!-- Snake Game Repo View -->
 
 <div align="center">
