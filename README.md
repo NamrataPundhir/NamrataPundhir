@@ -22,12 +22,6 @@ Stay connected and check out my profiles:
 [![Instagram Namrata](https://img.shields.io/badge/Instagram-Namrata%20Pundhir-pink?logo=instagram&logoColor=white)](https://www.instagram.com/kshx_namratapundxr?igsh=MTlzaXVwYTZiZW1ieg==)
 
 [![](https://visitcount.itsvg.in/api?id=NamrataPundhir&icon=1&color=4)](https://visitcount.itsvg.in)
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 # 💻 Tech Stack:
 
 
@@ -45,6 +39,13 @@ Stay connected and check out my profiles:
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
